@@ -1,0 +1,14 @@
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\ExponentsTable\ExponentsTable\bin\Debug\netcoreapp3.1\ExponentsTable.exe
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\ExponentsTable\ExponentsTable\bin\Debug\netcoreapp3.1\ExponentsTable.deps.json
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\ExponentsTable\ExponentsTable\bin\Debug\netcoreapp3.1\ExponentsTable.runtimeconfig.json
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\ExponentsTable\ExponentsTable\bin\Debug\netcoreapp3.1\ExponentsTable.runtimeconfig.dev.json
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\ExponentsTable\ExponentsTable\bin\Debug\netcoreapp3.1\ExponentsTable.dll
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\ExponentsTable\ExponentsTable\bin\Debug\netcoreapp3.1\ExponentsTable.pdb
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\ExponentsTable\ExponentsTable\obj\Debug\netcoreapp3.1\ExponentsTable.csproj.AssemblyReference.cache
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\ExponentsTable\ExponentsTable\obj\Debug\netcoreapp3.1\ExponentsTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\ExponentsTable\ExponentsTable\obj\Debug\netcoreapp3.1\ExponentsTable.AssemblyInfoInputs.cache
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\ExponentsTable\ExponentsTable\obj\Debug\netcoreapp3.1\ExponentsTable.AssemblyInfo.cs
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\ExponentsTable\ExponentsTable\obj\Debug\netcoreapp3.1\ExponentsTable.csproj.CoreCompileInputs.cache
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\ExponentsTable\ExponentsTable\obj\Debug\netcoreapp3.1\ExponentsTable.dll
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\ExponentsTable\ExponentsTable\obj\Debug\netcoreapp3.1\ExponentsTable.pdb
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\ExponentsTable\ExponentsTable\obj\Debug\netcoreapp3.1\ExponentsTable.genruntimeconfig.cache
